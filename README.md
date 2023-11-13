@@ -10,7 +10,6 @@ Your task is to build a text editor that runs in the browser. The app will be a 
 * [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
 * [Files and Images](#files-and-images)
-* [Useage](#usage)
 * [Installation](#installation)
 * [Credits](#credits)
 
@@ -49,7 +48,9 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
-## Usage
+## Files and Images:
+![Pictures of files being uploaded to Heroku](images19.jpg)
+
 
 ## Installation
 
