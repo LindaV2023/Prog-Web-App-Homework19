@@ -50,6 +50,9 @@ THEN I should have proper build scripts for a webpack application
 
 ## Files and Images:
 ![Pictures of files being uploaded to Heroku](images19.jpg)
+![additional pictures2](pictures4_19.jpg) 
+![additional pictures3](pictures2_19.jpg) 
+![additional pictures4](pictures3_19.jpg)
 
 
 ## Installation
